@@ -1,0 +1,2 @@
+class esp32Modem {
+};
